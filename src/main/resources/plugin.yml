@@ -1,0 +1,7 @@
+name: SwiftMine
+version: '${version}'
+main: com.kyocuti.swiftmine.SwiftMine
+api-version: '1.20'
+authors: [KYOCUTI & Winlyps]
+description: A Minecraft Plugin For Setting Up Customized Block Breaking Time
+website: www.kyocuti.com
